@@ -1,0 +1,1 @@
+Edit the file until you are happy with the conflict resolution and click Add to Index on the corresponding entry in the Staging View. This stages the conflict resolution and marks the conflict resolved.
