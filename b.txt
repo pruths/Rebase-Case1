@@ -1,1 +1,6 @@
-Edit the file until you are happy with the conflict resolution and click Add to Index on the corresponding entry in the Staging View. This stages the conflict resolution and marks the conflict resolved.
+If instead of resolving conflicts you want to skip the commit which caused the conflicts click Skip instead.
+
+If you want to abort the ongoing rebase operation click Abort. This reverts everything to the state before you started rebase.
+
+Aborting Rebase
+As long as the Repository is in "Rebasing" state, the user can always abort the rebase in the Git Repositories View using the menu action "Rebase > Abort" which is available on the Repository node.
