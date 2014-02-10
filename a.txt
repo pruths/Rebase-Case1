@@ -1,0 +1,3 @@
+Unless Skip or Abort was chosen in the dialog, the conflicts must be resolved manually by editing the conflicting files. When done with editing, the files must be declared as being resolved by adding them to the git index.
+
+If you canceled the rebase wizard the easiest way to find the files with conflicts is using the Staging View. Click Merge Tool on the file with conflicts to open the merge tool for this file. The Merge Tool can also be started from the corresponding entry in the Team menu.
