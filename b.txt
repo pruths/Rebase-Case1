@@ -4,3 +4,8 @@ If you want to abort the ongoing rebase operation click Abort. This reverts ever
 
 Aborting Rebase
 As long as the Repository is in "Rebasing" state, the user can always abort the rebase in the Git Repositories View using the menu action "Rebase > Abort" which is available on the Repository node.
+
+// New lines added as a part of B4
+
+B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4
+ B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 B4 
